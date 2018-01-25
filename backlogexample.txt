@@ -15,7 +15,9 @@ Profiles
     Reviewers” approach.)
     As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page
     about each.
+	Как тренер я хочу чтобы мой профиль содержал предстоящие занятия со ссылками на страницы этих занятий.
     As a site member, I can view the profiles of other members.
+	Как пользователь сайта, я могу просматривать профили других пользователей.
     As a site member, I can search for profiles based on a few fields (class attended, location, name).
     As a site member, I can mark my profile as private in which case only my name will appear.
     As a site member, I can mark my email address as private even if the rest of my profile is not.
