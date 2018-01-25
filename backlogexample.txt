@@ -2,20 +2,27 @@
 
 The following product backlog example was written to describe initial functionality for the Scrum Alliance website. It lists everything that the product owner and Scrum team feels should be included in the software they are developing in a Scrum environment.
 Profiles
-
+Приведён пример бэклога с описанием первоначальной функциональности для Веб-сайт Scrum Alliance. В нем перечислены все, что владелец продукта и команда Scrum считает необходимым включить в программное обеспечение, которое они разрабатывают в среде Scrum.
     As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.)
-    As a site member, I can fill out an application to become a Practitioner.
-    As a Practitioner, I want my profile page to include additional details about me (i.e., some of the
+    Как участник сайта, я хочу описать себя на своей странице полуструктурированным образом.Предполагается,что я могу заполнить предопределенные поля, но также иметь место для поля свободного текста или двух.(Было бы неплохо, если бы этот свободный текст был HTML или подобным.)
+As a site member, I can fill out an application to become a Practitioner.
+    Являясь участником сайта, я могу заполнить заявку, чтобы стать учеником.
+As a Practitioner, I want my profile page to include additional details about me (i.e., some of the
     answers to my Practitioner application).
-    As a site member, I can fill out an application to become a Trainer.
-    As a Trainer, I want my profile page to include additional details about me (i.e., some of the
+   Как ученик, я хочу, чтобы страница моего профиля включала в себя дополнительные сведения обо мне (т. е. некоторые из
+     ответы на мое учебное приложение).
+ As a site member, I can fill out an application to become a Trainer.
+    Как участник сайта, я могу заполнить заявку, чтобы стать тренером.
+As a Trainer, I want my profile page to include additional details about me (i.e., some of the
     answers to my Trainer application).
     As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated
     with the content indicating I’m a Practitioner or Trainer. (For example, Amazon’s “Top 500
     Reviewers” approach.)
     As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page
     about each.
+	Как тренер я хочу чтобы мой профиль содержал предстоящие занятия со ссылками на страницы этих занятий.
     As a site member, I can view the profiles of other members.
+	Как пользователь сайта, я могу просматривать профили других пользователей.
     As a site member, I can search for profiles based on a few fields (class attended, location, name).
     As a site member, I can mark my profile as private in which case only my name will appear.
     As a site member, I can mark my email address as private even if the rest of my profile is not.
