@@ -4,11 +4,18 @@ The following product backlog example was written to describe initial functional
 Profiles
 
     As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.)
-    As a site member, I can fill out an application to become a Practitioner.
-    As a Practitioner, I want my profile page to include additional details about me (i.e., some of the
+
+
+     ак участник сайта, € хочу описать себ€ на своей странице полуструктурированным образом.ѕредполагаетс€,что € могу заполнить предопределенные пол€, но также иметь место дл€ пол€ свободного текста или двух.(Ѕыло бы неплохо, если бы этот свободный текст был HTML или подобным.)
+As a site member, I can fill out an application to become a Practitioner.
+    явл€€сь участником сайта, € могу заполнить за€вку, чтобы стать учеником.
+As a Practitioner, I want my profile page to include additional details about me (i.e., some of the
     answers to my Practitioner application).
-    As a site member, I can fill out an application to become a Trainer.
-    As a Trainer, I want my profile page to include additional details about me (i.e., some of the
+    ак ученик, € хочу, чтобы страница моего профил€ включала в себ€ дополнительные сведени€ обо мне (т. е. некоторые из
+†††† ответы на мое учебное приложение).
+ As a site member, I can fill out an application to become a Trainer.
+     ак участник сайта, € могу заполнить за€вку, чтобы стать тренером.
+As a Trainer, I want my profile page to include additional details about me (i.e., some of the
     answers to my Trainer application).
     As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated
     with the content indicating IТm a Practitioner or Trainer. (For example, AmazonТs УTop 500
@@ -44,8 +51,14 @@ News
 Courses and Events
 
     As a site visitor, I can see a list of all upcoming УCertification Courses.Ф I can page through them if there are a lot.
+	 ак посетитель сайта, € могу видеть список всех предсто€щих Ђсертификационных курсовї. я могу просматривать, если их много.
+
     As a site visitor, I can see a list of all upcoming УOther CoursesФ (non-certification courses). I can page through them if necessary.
+	 ак посетитель сайта, € могу увидеть список всех предсто€щих Ђƒругие курсыї (курсы без сертификации). я могу пропустить их, если это необходимо.
+
     As a site visitor, I can see a list of all upcoming УEvents.Ф (Events are things such as the Scrum Gathering, conferences, free seminars, etc.)
+	¬ качестве посетител€ сайта € вижу список всех предсто€щих Ђ—обытийї. (—обыти€ - это такие вещи, как Scrum Gathering, конференции, бесплатные семинары и т. ƒ.).
+
     As a trainer, I can create a new course or event. This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register. For a certification course the name of the class is a dropdown list; for others, it is free text.
     As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: WeТll need this to tie into credit card processing.)
     As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesnТt charge itself for Scrum Gatherings that it puts on.
