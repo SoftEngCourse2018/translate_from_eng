@@ -4,10 +4,18 @@ The following product backlog example was written to describe initial functional
 Profiles
 
     As a site member, I want to describe myself on my own page in a semi-structured way. That is, I can fill in predefined fields, but also have room for a free-text field or two. (It would be nice to let this free text be HTML or similar.)
+	Как участник сайта, я хочу описать себя на своей странице полуструктурированным образом. То есть, я могу заполнить предопределенные поля, а также иметь место для поля свободного текста или двух. (Было бы неплохо, если бы этот свободный текст был формата HTML или подобным.)
+
     As a site member, I can fill out an application to become a Practitioner.
+	Являясь участником сайта, я могу заполнить заявку, чтобы стать практиком.
+
     As a Practitioner, I want my profile page to include additional details about me (i.e., some of the
     answers to my Practitioner application).
+	Как практик, я хочу, чтобы страница моего профиля включала в себя дополнительные сведения обо мне (т.е. некоторые ответы для моего практического применения).
+
     As a site member, I can fill out an application to become a Trainer.
+	Как участник сайта, я могу заполнить заявку, чтобы стать тренером.
+
     As a Trainer, I want my profile page to include additional details about me (i.e., some of the
     answers to my Trainer application).
     As a Practitioner or Trainer, when I provide content to the site I want a small graphic associated
@@ -38,8 +46,14 @@ News
 Courses and Events
 
     As a site visitor, I can see a list of all upcoming “Certification Courses.” I can page through them if there are a lot.
+	Как посетитель сайта, я могу видеть список всех предстоящих «сертификационных курсов». Я могу просматривать, если их много.
+
     As a site visitor, I can see a list of all upcoming “Other Courses” (non-certification courses). I can page through them if necessary.
+	Как посетитель сайта, я могу увидеть список всех предстоящих «Другие курсы» (курсы без сертификации). Я могу пропустить их, если это необходимо.
+
     As a site visitor, I can see a list of all upcoming “Events.” (Events are things such as the Scrum Gathering, conferences, free seminars, etc.)
+	В качестве посетителя сайта я вижу список всех предстоящих «Событий». (События - это такие вещи, как Scrum Gathering, конференции, бесплатные семинары и т. Д.).
+
     As a trainer, I can create a new course or event. This includes the following information: name, description (HTML), trainer names (multiple selection from a list), start date, end date, venue name (HTML) and address, contact name, contact phone, contact email, a link for more information, and a link to register. For a certification course the name of the class is a dropdown list; for others, it is free text.
     As a trainer, when I create an Other Course or Event, I am charged a listing fee for that activity. (Note: We’ll need this to tie into credit card processing.)
     As a site administrator, I can create an Other Course (?) or Event that is not charged a listing fee. This is so that the Scrum Alliance doesn’t charge itself for Scrum Gatherings that it puts on.
